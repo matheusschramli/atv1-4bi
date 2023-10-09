@@ -4,13 +4,7 @@
     height: 6px;
     margin: 15px;
     padding: 30px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-     top: 50%;
-    left: 50%;
+    margin: 0 auto;
 }
 
 .e {
@@ -19,10 +13,7 @@
     height: 5px;
     margin: 15px;
     padding: 30px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    margin: 0 auto;
 }
 
 .o {
@@ -31,10 +22,6 @@
     height: 7px;
     margin: 15px;
     padding: 30px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
 }
 
 .melhor {
@@ -43,11 +30,4 @@
     height: 8px;
     margin: 15px;
     padding: 30px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 50%;
-    left: 30%;
 }
